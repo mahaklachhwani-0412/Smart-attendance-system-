@@ -8,6 +8,10 @@ Test camera function
 Capture images
 Train images
 Recognize faces for attendance
+
+
+
+
 HOW TO USE:
 Download the ZIP file, and extract its all content.
 Install all the required libraries.
